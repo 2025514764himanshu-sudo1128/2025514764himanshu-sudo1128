@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Electronics and Computer Science Engineering student with a keen
+Electronics and Computer Engineering student with a keen
 interest in learning and applying technical concepts. Strong
 problem-solving mindset with knowledge of electronics, coding,
 and system design. Committed to continuous learning and adapting
