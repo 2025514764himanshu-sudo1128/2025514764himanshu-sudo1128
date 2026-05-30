@@ -78,6 +78,19 @@ to emerging technologies.
 > safety and support efficient maintenance.
 
 ---
+### 🐍 Python Programming Lab
+> Lists, dictionaries and 6 real-world mini applications
+
+🔗 [View Project](https://github.com/2025514764himanshu-sudo1128/Python-Programming-Lab)
+
+---
+
+### 💻 C Programming Lab
+> Calculator implemented 3 ways — switch-case, while loop, for loop
+
+🔗 [View Project](https://github.com/2025514764himanshu-sudo1128/C-Programming-Lab)
+
+---
 
 ## 📊 GitHub Stats
 
