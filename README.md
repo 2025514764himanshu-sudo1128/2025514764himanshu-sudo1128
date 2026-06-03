@@ -1,8 +1,8 @@
 # Hi there, I'm Himanshu Kumar 👋
 
-🎓 B.Tech Electronics & Computer Science Engineering
-🏛️ Sharda University, Greater Noida
-📧 2025514764himanshu@gmail.com
+-  B.Tech Electronics & Computer Science Engineering
+-  Sharda University, Greater Noida
+-  2025514764himanshu@gmail.com
 
 ---
 
@@ -83,10 +83,10 @@ solve everyday problems using technology.
 
 ---
 
-## 🤖 AI in Mechanical Engineering — Lab Experiments (ONT406)
+## 🤖 AI
 
 > Complete lab series covering Python, NumPy, Pandas, Machine
-> Learning, Genetic Algorithms and AI Ethics — Sharda University
+> Learning, Genetic Algorithms and AI Ethics
 
 | # | Experiment | Topics |
 |---|---|---|
